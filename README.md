@@ -7,7 +7,7 @@ E estou cursando o 1° semestre de  Tecnologia em Análise e Desenvolvimento de 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcXPzp33xl2LNLgkSIl5IwQ)
 
 ![Davis GitHub stats](https://github-readme-stats.vercel.app/api?username=vsdavis&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={vsdavis}&theme=blue-green)
+[![Top Langs](https:github-readme-stats.vercel.app/api/top-langs/?username=vsdavis&layout=pie)](https://github.com/anuraghzra/github-readme-status)
 
 ## Tecnologias que uso no meu dia
 
