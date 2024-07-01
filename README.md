@@ -8,7 +8,7 @@ Atualmente trabalho como Analista de Suporte Técnico
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcXPzp33xl2LNLgkSIl5IwQ)
 
 ![Davis GitHub stats](https://github-readme-stats.vercel.app/api?username=vsdavis&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsdavis&layout=pie)](https://github.com/anuraghazra/github-readme-status)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsdavis&layout=compact&langs_count=7&theme=dark"/>
 
 ## Tecnologias que uso no meu dia
 
