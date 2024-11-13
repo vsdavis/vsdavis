@@ -9,7 +9,7 @@ E estou cursando o 2° semestre de  Tecnologia em Análise e Desenvolvimento de 
 ![Davis GitHub stats](https://github-readme-stats.vercel.app/api?username=vsdavis&show_icons=true&theme=radical)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsdavis&layout=compact&langs_count=7&theme=dark"/>
 
-## Tecnologias que uso no meu dia
+## Tecnologias que utilizo 
 
 <div style="display: inline_block"><br/>
 
