@@ -17,8 +17,7 @@ E estou cursando o 3° semestre de  Tecnologia em Análise e Desenvolvimento de 
    <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
      <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="debiam" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  
+    
 </div><br/>
 
 Apaixonado por Tecnologia, conhecimento e sempre buscando evoluir como profissional!! 🚀💻
