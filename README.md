@@ -20,5 +20,4 @@ E estou cursando o 4° semestre de  Tecnologia em Análise e Desenvolvimento de 
     
 </div><br/>
 
-Apaixonado por Tecnologia, conhecimento e sempre buscando evoluir como profissional!! 🚀💻
-
+Apaixonado por Tecnologia, conhecimento e sempre buscando evoluir como profissional!! 
