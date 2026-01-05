@@ -1,7 +1,7 @@
 
 ### Olá! sou David Vieira Souza 🖐🏾
 Sou Dev. Full-Stack, fui aluno da Etec Prof. Horácio Augusto da Silveira cursei Tec. Informática <br/>
-E estou cursando o 4° semestre de  Tecnologia em Análise e Desenvolvimento de Sistemas na UNINOVE - Campus Vila Maria</br>
+E estou cursando o 5° semestre de  Tecnologia em Análise e Desenvolvimento de Sistemas na UNINOVE - Campus Vila Maria</br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-vieira-souza-1a70a8283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtE32TDaLTVeMEVoEfNTAjg%3D%3D)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcXPzp33xl2LNLgkSIl5IwQ)
