@@ -11,10 +11,10 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/vsdavis" target="_blank">
+<a href="www.linkedin.com/in/david-vieira-souza-1a70a8283" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@vsdavis" target="_blank">
+<a href="[https://www.youtube.com/@vsdavis](https://www.youtube.com/@davisweber)" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 <a href="https://github.com/vsdavis" target="_blank">
