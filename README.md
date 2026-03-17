@@ -47,7 +47,7 @@ const david = {
 
 <br/>
 
-- 🎓 &nbsp;Cursando **5º semestre de ADS** na UNINOVE - Campus Vila Maria
+- 🎓 &nbsp;Cursando **5º semestre de TADS** na UNINOVE - Campus Vila Maria
 - 🛠️ &nbsp;Desenvolvendo com **.NET e C#** no dia a dia
 - 📚 &nbsp;Sempre buscando novos conhecimentos e desafios
 - ⚡ &nbsp;Apaixonado por tecnologia, treinar, café e escrever
