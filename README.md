@@ -49,9 +49,9 @@ const david = {
 <br/>
 
 - 🎓 &nbsp;Cursando **5º semestre de ADS** na UNINOVE - Campus Vila Maria
-- 🛠️ &nbsp;Desenvolvendo com **.NET, C# e JavaScript** no dia a dia
+- 🛠️ &nbsp;Desenvolvendo com **.NET e C#** no dia a dia
 - 📚 &nbsp;Sempre buscando novos conhecimentos e desafios
-- ⚡ &nbsp;Apaixonado por tecnologia, café e boas arquiteturas
+- ⚡ &nbsp;Apaixonado por tecnologia, treinar, café e escrever
 
 <br clear="right"/>
 
@@ -76,6 +76,7 @@ const david = {
 #### 🗄️ &nbsp;Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 #### 🔧 &nbsp;Ferramentas
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -117,7 +118,7 @@ const david = {
 
 ### 💬 &nbsp;Pensamento
 
-> *"Todo expert já foi um iniciante. Continue aprendendo."*
+> *"Todo "gênio" já foi um iniciante. Continue aprendendo e evoluindo."*
 
 <br/>
 
