@@ -39,7 +39,7 @@
 const david = {
   nome:       "David Vieira Souza",
   role:       "Full-Stack .NET Developer",
-  formação:   "Tecnologia em ADS · UNINOVE",
+  formação:   "Tecnologia em TADS · UNINOVE",
   anterior:   "Etec Prof. Horácio Augusto da Silveira",
   foco:       ["Web Development", "APIs RESTful", "Clean Code"],
   filosofia:  "Conhecimento é a única coisa que ninguém tira de você.",
