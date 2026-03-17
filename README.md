@@ -1,5 +1,5 @@
 
-### Olá! sou David Vieira Souza 🖐🏾
+### Olá! sou David 🖐🏾
 Sou Dev. Full-Stack, fui aluno da Etec Prof. Horácio Augusto da Silveira cursei Tec. Informática <br/>
 E estou cursando o 5° semestre de  Tecnologia em Análise e Desenvolvimento de Sistemas na UNINOVE - Campus Vila Maria</br>
 
