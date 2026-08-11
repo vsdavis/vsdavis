@@ -47,7 +47,7 @@ const david = {
 
 <br/>
 
-- 🎓 &nbsp;Formado em **TADS** na UNINOVE - Campus Vila Maria
+- 🎓 &nbsp;Formado em **Tecnologia em Análise e Desenvolvimento de Sistemas** na UNINOVE - Campus Vila Maria
 - 🛠️ &nbsp;Desenvolvendo com **.NET e C#** no dia a dia
 - 📚 &nbsp;Sempre buscando novos conhecimentos e desafios
 - ⚡ &nbsp;Apaixonado por tecnologia, treinar, café e escrever
